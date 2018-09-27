@@ -8,7 +8,7 @@
 
 3. Download the .zip from github and save it as /GTAProxy.zip by typing this command and pressing enter:
 
-  wget https://github.com/gta-online-nginx/GTAOnlineNginxProxy/raw/master/DownloadThisZipFile.zip -O /GTAProxy.zip
+  wget https://github.com/chromezeemods/gtav-nginx-dns/blob/master/download.zip -O /GTAProxy.zip
 
 (if wget isn't installed, run "apt-get update;apt-get install wget". Just paste everything between the quotes into the terminal window.)
 
